@@ -1,4 +1,54 @@
-﻿  CommonUtils.cpp
+﻿  CollisionDetectionSAT.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+CollisionDetectionSAT.cpp(245): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CommonMeshes.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  CommonUtils.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
 CommonUtils.cpp(146): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
 CommonUtils.cpp(200): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
-  ncltech.vcxproj -> D:\ZJF\final\GameTech_2017_final (1)\Build\x64\Release\ncltech.lib
+  CuboidCollisionShape.cpp
+CuboidCollisionShape.cpp(72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  GeometryUtils.cpp
+  GraphicsPipeline.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Hull.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+Hull.cpp(25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Hull.cpp(55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Hull.cpp(58): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Hull.cpp(90): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Hull.cpp(205): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Hull.cpp(211): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Manifold.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  MazeGenerator.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\gametech-coursework\gametech_2017\build\ncltech\MazeGenerator.h(97): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\gametech-coursework\gametech_2017\build\ncltech\MazeGenerator.h(108): warning C4018: '<': signed/unsigned mismatch
+e:\gametech-coursework\gametech_2017\build\ncltech\MazeGenerator.h(112): warning C4018: '<': signed/unsigned mismatch
+e:\gametech-coursework\gametech_2017\build\ncltech\MazeGenerator.h(136): warning C4018: '<': signed/unsigned mismatch
+e:\gametech-coursework\gametech_2017\build\ncltech\MazeGenerator.h(142): warning C4018: '<': signed/unsigned mismatch
+MazeGenerator.cpp(270): warning C4244: 'argument': conversion from '__int64' to 'uint', possible loss of data
+MazeGenerator.cpp(275): warning C4244: 'argument': conversion from '__int64' to 'uint', possible loss of data
+  MazeRenderer.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\gametech-coursework\gametech_2017\build\ncltech\MazeGenerator.h(97): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\gametech-coursework\gametech_2017\build\ncltech\MazeGenerator.h(108): warning C4018: '<': signed/unsigned mismatch
+e:\gametech-coursework\gametech_2017\build\ncltech\MazeGenerator.h(112): warning C4018: '<': signed/unsigned mismatch
+e:\gametech-coursework\gametech_2017\build\ncltech\MazeGenerator.h(136): warning C4018: '<': signed/unsigned mismatch
+e:\gametech-coursework\gametech_2017\build\ncltech\MazeGenerator.h(142): warning C4018: '<': signed/unsigned mismatch
+  NetworkBase.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  PhysicsEngine.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  PhysicsNode.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  SceneManager.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\gametech-coursework\gametech_2017\build\ncltech\SceneManager.h(53): warning C4267: 'return': conversion from 'size_t' to 'uint', possible loss of data
+  ScreenPicker.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  SphereCollisionShape.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  ncltech.vcxproj -> E:\GameTech-Coursework\GameTech_2017\Build\x64\Release\ncltech.lib

@@ -1,0 +1,47 @@
+﻿  Camera.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  CubeRobot.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Frustum.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  GameTimer.cpp
+  HeightMap.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Keyboard.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Matrix3.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Matrix4.cpp
+  MD5Anim.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  MD5FileData.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+MD5FileData.cpp(253): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MD5Mesh.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  MD5Node.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Mesh.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Mouse.cpp
+  OBJMesh.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+OBJMesh.cpp(207): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+OBJMesh.cpp(320): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+OBJMesh.cpp(324): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+OBJMesh.cpp(338): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+OBJMesh.cpp(342): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  OGLRenderer.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Plane.cpp
+  Quaternion.cpp
+  RenderNode.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Shader.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Compiling...
+  Window.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  NCLDebug.cpp
+e:\gametech-coursework\gametech_2017\build\nclgl\Keyboard.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  nclgl.vcxproj -> E:\GameTech-Coursework\GameTech_2017\Build\x64\Release\nclgl.lib
