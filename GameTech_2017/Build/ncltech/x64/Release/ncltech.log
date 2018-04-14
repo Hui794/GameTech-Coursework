@@ -1,0 +1,4 @@
+﻿  CommonUtils.cpp
+CommonUtils.cpp(146): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+CommonUtils.cpp(200): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+  ncltech.vcxproj -> D:\ZJF\final\GameTech_2017_final (1)\Build\x64\Release\ncltech.lib

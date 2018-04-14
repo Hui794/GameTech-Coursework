@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Coursework1_Server.vcxproj, Tuts_Network_Server.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  Tuts_Network_Server.vcxproj -> D:\ZJF\final\GameTech_2017_final (1)\Build\Debug\Coursework2_Server.exe
+  Tuts_Network_Server.vcxproj -> D:\ZJF\final\GameTech_2017_final (1)\Build\Debug\Coursework2_Server.pdb (Partial PDB)

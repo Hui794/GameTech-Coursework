@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Coursework1_Client.vcxproj, Tuts_Network_Client.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Net1_Client.cpp
+  SOIL.lib(SOIL.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+glew32.lib(glew.obj) : warning LNK4099: PDB 'glew_static.pdb' was not found with 'glew32.lib(glew.obj)' or at 'D:\ZJF\final\GameTech_2017_final (1)\Build\Debug\glew_static.pdb'; linking object as if no debug info
+  Tuts_Network_Client.vcxproj -> D:\ZJF\final\GameTech_2017_final (1)\Build\Debug\Coursework2_Client.exe
+  Tuts_Network_Client.vcxproj -> D:\ZJF\final\GameTech_2017_final (1)\Build\Debug\Coursework2_Client.pdb (Partial PDB)

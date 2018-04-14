@@ -1,0 +1,13 @@
+﻿  CommonUtils.cpp
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\gameobject.h(153): warning C4018: '<': signed/unsigned mismatch
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\gameobject.h(220): warning C4018: '<': signed/unsigned mismatch
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\gameobject.h(250): warning C4018: '<': signed/unsigned mismatch
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\commonutils.cpp(146): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\commonutils.cpp(200): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  SceneManager.cpp
+  PhysicsEngine.cpp
+  MazeRenderer.cpp
+  MazeGenerator.cpp
+  ncltech.vcxproj -> D:\ZJF\final\GameTech_2017_final (1)\Build\Debug\ncltech.lib

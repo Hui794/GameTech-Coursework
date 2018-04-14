@@ -1,0 +1,533 @@
+[09:03:07] Loading Shader:
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexBasic.glsl
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechFragSuperSample.glsl
+[09:03:07]     -> Linking Shader: Success!
+[09:03:07] 
+[09:03:07] Loading Shader:
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexShadow.glsl
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/Common/EmptyFragment.glsl
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechGeomShadow.glsl
+[09:03:07]     -> Linking Shader: Success!
+[09:03:07] 
+[09:03:07] Loading Shader:
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexFull.glsl
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechFragForwardRender.glsl
+[09:03:07]     -> Linking Shader: Success!
+[09:03:07] 
+[09:03:07] Loading Shader:
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/PointVertex.glsl
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/PointFragment.glsl
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/PointGeometry.glsl
+[09:03:07]     -> Linking Shader: Success!
+[09:03:07] 
+[09:03:07] Loading Shader:
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/Vertex.glsl
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/Fragment.glsl
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/LineGeometry.glsl
+[09:03:07]     -> Linking Shader: Success!
+[09:03:07] 
+[09:03:07] Loading Shader:
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/VertexColOnly.glsl
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/Fragment.glsl
+[09:03:07]     -> Linking Shader: Success!
+[09:03:07] 
+[09:03:07] Loading Shader:
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/TextVertex.glsl
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/TextFragment.glsl
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/TextGeometry.glsl
+[09:03:07]     -> Linking Shader: Success!
+[09:03:07] 
+[09:03:07] Loading Shader:
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexPicker.glsl
+[09:03:07]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechFragScreenPicker_nsightfix.glsl
+[09:03:07]     -> Linking Shader: Success!
+[09:03:07] 
+[09:03:07] Loading Mesh: ../../Data/Meshes/cube.obj
+[09:03:07] 
+[09:03:07] Loading Mesh: ../../Data/Meshes/sphere.obj
+[09:03:07] 
+[09:03:07] [SceneManager] - Enqueued scene: "Physics Tut #2 - Integration"
+[09:03:07] 
+[09:03:07] [SceneManager] - Scene switched to: "Physics Tut #2 - Integration"
+[09:03:07] [SceneManager] - Enqueued scene: "Physics Tut #3 - Distance Constraints"
+[09:03:07] [SceneManager] - Enqueued scene: "Physics Tut #4 - Collision Detection"
+[09:03:07] Loading Mesh: ../../Data/Meshes/raptor.obj
+[09:03:07]     -> Loading Texture: ../../Data/Textures/raptor.jpg
+[09:03:07] 
+[09:03:07] [SceneManager] - Enqueued scene: "Physics Tut #4 - Collision Detection [Bonus]"
+[09:03:07] [SceneManager] - Enqueued scene: "Physics Tut #5 - Collision Manifolds"
+[09:03:07] [SceneManager] - Enqueued scene: "Physics Tut #6 - Collision Response [Elasticity]"
+[09:03:07] [SceneManager] - Enqueued scene: "Physics Tut #6 - Collision Response [Friction]"
+[09:03:07] [SceneManager] - Enqueued scene: "Physics Tut #7 - Global Solver"
+[09:03:09] [SceneManager] - Exiting scene -
+[09:03:09] 
+[09:03:09] [SceneManager] - Scene switched to: "Physics Tut #3 - Distance Constraints"
+[09:03:10] [SceneManager] - Exiting scene -
+[09:03:10] 
+[09:03:10] [SceneManager] - Scene switched to: "Physics Tut #4 - Collision Detection"
+[09:03:13] [SceneManager] - Exiting scene -
+[09:03:13] 
+[09:03:13] [SceneManager] - Scene switched to: "Physics Tut #4 - Collision Detection [Bonus]"
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:19] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:20] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:21] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:22] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:23] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:24] Player is inside the Yellow City! - Static callback
+[09:03:25] Player is inside the Yellow City! - Static callback
+[09:03:25] Player is inside the Yellow City! - Static callback
+[09:03:25] Player is inside the Yellow City! - Static callback
+[09:03:25] Player is inside the Yellow City! - Static callback
+[09:03:25] Player is inside the Yellow City! - Static callback
+[09:03:25] Player is inside the Yellow City! - Static callback
+[09:03:25] Player is inside the Yellow City! - Static callback
+[09:03:25] Player is inside the Yellow City! - Static callback
+[09:03:25] [SceneManager] - Exiting scene -
+[09:03:25] 
+[09:03:25] [SceneManager] - Scene switched to: "Physics Tut #5 - Collision Manifolds"
+[09:03:27] [SceneManager] - Exiting scene -
+[09:03:27] 
+[09:03:27] [SceneManager] - Scene switched to: "Physics Tut #6 - Collision Response [Elasticity]"
+[09:03:28] [SceneManager] - Exiting scene -
+[09:03:28] 
+[09:03:28] [SceneManager] - Scene switched to: "Physics Tut #6 - Collision Response [Friction]"
+[09:03:29] [SceneManager] - Exiting scene -
+[09:03:29] 
+[09:03:29] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:30] [SceneManager] - Exiting scene -
+[09:03:30] 
+[09:03:30] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:31] [SceneManager] - Exiting scene -
+[09:03:31] 
+[09:03:31] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:31] [SceneManager] - Exiting scene -
+[09:03:31] 
+[09:03:31] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:31] [SceneManager] - Exiting scene -
+[09:03:31] 
+[09:03:31] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:31] [SceneManager] - Exiting scene -
+[09:03:31] 
+[09:03:31] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:32] [SceneManager] - Exiting scene -
+[09:03:32] 
+[09:03:32] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:32] [SceneManager] - Exiting scene -
+[09:03:32] 
+[09:03:32] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:32] [SceneManager] - Exiting scene -
+[09:03:32] 
+[09:03:32] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:34] [SceneManager] - Exiting scene -
+[09:03:34] 
+[09:03:34] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:35] [SceneManager] - Exiting scene -
+[09:03:35] 
+[09:03:35] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:35] [SceneManager] - Exiting scene -
+[09:03:35] 
+[09:03:35] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:36] [SceneManager] - Exiting scene -
+[09:03:36] 
+[09:03:36] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:37] [SceneManager] - Exiting scene -
+[09:03:37] 
+[09:03:37] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:41] [SceneManager] - Exiting scene -
+[09:03:41] 
+[09:03:41] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:42] [SceneManager] - Exiting scene -
+[09:03:42] 
+[09:03:42] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:42] Physics too slow to run in real time!
+[09:03:43] [SceneManager] - Exiting scene -
+[09:03:43] 
+[09:03:43] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:43] Physics too slow to run in real time!
+[09:03:44] Physics too slow to run in real time!
+[09:03:44] Physics too slow to run in real time!
+[09:03:44] Physics too slow to run in real time!
+[09:03:44] Physics too slow to run in real time!
+[09:03:44] Physics too slow to run in real time!
+[09:03:44] Physics too slow to run in real time!
+[09:03:44] Physics too slow to run in real time!
+[09:03:44] Physics too slow to run in real time!
+[09:03:45] Physics too slow to run in real time!
+[09:03:45] Physics too slow to run in real time!
+[09:03:45] [SceneManager] - Exiting scene -
+[09:03:45] 
+[09:03:45] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:46] Physics too slow to run in real time!
+[09:03:46] Physics too slow to run in real time!
+[09:03:46] Physics too slow to run in real time!
+[09:03:46] Physics too slow to run in real time!
+[09:03:46] Physics too slow to run in real time!
+[09:03:46] Physics too slow to run in real time!
+[09:03:48] [SceneManager] - Exiting scene -
+[09:03:48] 
+[09:03:48] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[09:03:48] Physics too slow to run in real time!
+[09:03:48] Physics too slow to run in real time!
+[09:03:48] Physics too slow to run in real time!
+[09:03:49] Physics too slow to run in real time!
+[09:03:49] Physics too slow to run in real time!
+[09:03:49] Physics too slow to run in real time!
+[09:03:49] Physics too slow to run in real time!
+[09:03:49] Physics too slow to run in real time!
+[09:03:49] Physics too slow to run in real time!
+[09:03:49] Physics too slow to run in real time!
+[09:03:50] Physics too slow to run in real time!
+[09:03:50] Physics too slow to run in real time!
+[09:03:50] Physics too slow to run in real time!
+[09:03:50] Physics too slow to run in real time!
+[09:03:50] Physics too slow to run in real time!
+[09:03:50] Physics too slow to run in real time!
+[09:03:53] [SceneManager] Closing scene manager

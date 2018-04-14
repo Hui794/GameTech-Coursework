@@ -1,0 +1,24 @@
+﻿  SphereCollisionShape.cpp
+  ScreenPicker.cpp
+  SceneManager.cpp
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\scenemanager.h(53): warning C4267: 'return': conversion from 'size_t' to 'uint', possible loss of data
+  PhysicsNode.cpp
+  PhysicsEngine.cpp
+  NetworkBase.cpp
+  Manifold.cpp
+  Hull.cpp
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\hull.cpp(25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\hull.cpp(55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\hull.cpp(58): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\hull.cpp(90): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\hull.cpp(205): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\hull.cpp(211): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  GraphicsPipeline.cpp
+  GeometryUtils.cpp
+  CuboidCollisionShape.cpp
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\cuboidcollisionshape.cpp(72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CommonUtils.cpp
+  CommonMeshes.cpp
+  CollisionDetectionSAT.cpp
+  Generating Code...
+  ncltech.vcxproj -> D:\ZJF\final\GameTech_2017_final (1)\Build\x64\Debug\ncltech.lib

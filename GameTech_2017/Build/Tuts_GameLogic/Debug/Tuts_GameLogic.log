@@ -1,0 +1,19 @@
+﻿  main.cpp
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\gameobject.h(153): warning C4018: '<': signed/unsigned mismatch
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\gameobject.h(220): warning C4018: '<': signed/unsigned mismatch
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\gameobject.h(250): warning C4018: '<': signed/unsigned mismatch
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\scene.h(115): warning C4018: '<': signed/unsigned mismatch
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\mazegenerator.h(108): warning C4018: '<': signed/unsigned mismatch
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\mazegenerator.h(112): warning C4018: '<': signed/unsigned mismatch
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\mazegenerator.h(136): warning C4018: '<': signed/unsigned mismatch
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\mazegenerator.h(142): warning C4018: '<': signed/unsigned mismatch
+d:\zjf\final\gametech_2017_final (1)\build\ncltech\searchastar.h(94): warning C4018: '<': signed/unsigned mismatch
+  SOIL.lib(SOIL.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+glew32.lib(glew.obj) : warning LNK4099: PDB 'glew_static.pdb' was not found with 'glew32.lib(glew.obj)' or at 'D:\ZJF\final\GameTech_2017_final (1)\Build\Debug\glew_static.pdb'; linking object as if no debug info
+  Tuts_GameLogic.vcxproj -> D:\ZJF\final\GameTech_2017_final (1)\Build\Debug\Coursework2_Client2.exe
+  Tuts_GameLogic.vcxproj -> D:\ZJF\final\GameTech_2017_final (1)\Build\Debug\Coursework2_Client2.pdb (Partial PDB)
